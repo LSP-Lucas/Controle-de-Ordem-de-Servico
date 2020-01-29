@@ -1,2 +1,2 @@
 # Controle de Ordem de Serviços
-Projeto desenvolvido em Java desktop para prática de conceitos básicos utilizando iReport, Java e MySQL.
+Projeto desenvolvido em Java desktop para práticas de conceitos básicos utilizando iReport, Java e MySQL.
